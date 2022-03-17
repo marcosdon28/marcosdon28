@@ -1,13 +1,12 @@
-### Hi there 👋
+<h4 align="left">My name is Marcos. Im 18 years old, I live in Argentina, Córdoba</h4>
 
-<!--
-**marcosdon28/marcosdon28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **ERC20 & ERC721 tokens**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning  **solidity & javascript**
 
-- 🔭 I’m currently working on ERC20 & ERC721 tokens.
-- 🌱 I’m currently learning solidity and javascript.
-- 👯 I’m looking to collaborate on blockchain projects.
-- 📫 How to reach me: marcosdon28@gmail.com
-- 😄 Pronouns: He/His.
--->
+- 👯 I’m looking to collaborate on  **blockchain projects**
+
+- 📫 How to reach me : **marcosdon28@gmail.com**
+
+
+
