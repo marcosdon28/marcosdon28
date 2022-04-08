@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **ERC20 & ERC721 tokens**
 
-- 🌱 I’m currently learning  **solidity & javascript**
+- 🌱 I’m currently learning  **solidity, javascript, node, react & web3**
 
 - 👯 I’m looking to collaborate on  **blockchain projects**
 
