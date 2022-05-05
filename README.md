@@ -1,8 +1,8 @@
 <h4 align="left">My name is Marcos. Im 18 years old, I live in Argentina, Córdoba</h4>
 
-- 🔭 I’m currently working on **ERC20 & ERC721 tokens**
+- 🔭 I’m currently working on **Fullstaack projects**
 
-- 🌱 I’m currently learning  **solidity, javascript, node, react & web3**
+- 🌱 I’m currently learning  **solidity, javascript, AWS, react & web3**
 
 - 👯 I’m looking to collaborate on  **blockchain projects**
 
