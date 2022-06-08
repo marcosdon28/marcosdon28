@@ -1,10 +1,10 @@
 <h4 align="left">My name is Marcos. Im 18 years old, I live in Argentina, Córdoba</h4>
 
-- 🔭 I’m currently working on **Fullstack projects**
+- 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning  **solidity, javascript, AWS, react & web3**
+- 🌱 I’m currently learning  **javascript, AWS, python, restful api**
 
-- 👯 I’m looking to collaborate on  **blockchain projects**
+- 👯 I’m looking to collaborate on  **Fullstack / Backend projects**
 
 - 📫 How to reach me : **marcosdon28@gmail.com**
 
