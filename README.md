@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning  **javascript, AWS, python, restful api**
+- 🌱 I’m currently learning  **javascript, AWS, Python, rest APIs**
 
 - 👯 I’m looking to collaborate on  **Fullstack / Backend projects**
 
