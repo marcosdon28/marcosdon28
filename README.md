@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on  **Fullstack / Backend projects**
 
-- 📫 How to reach me : **marcosdon28@gmail.com** or **linkedin.com/in/marcosdon/**
+- 📫 How to reach me : **marcosdon28@gmail.com** or **[linkedin.com/in/marcosdon/](https://www.linkedin.com/in/marcosdon/)**
 
 
 
